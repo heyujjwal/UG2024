@@ -2,7 +2,7 @@ import React from 'react';
 // import { CgCPlusPlus } from "react-icons/cg";
 import {FaReact, FaPython, FaGitAlt, FaGithub, FaNpm, FaFigma, FaBootstrap, FaAws} from "react-icons/fa";
 import {DiNodejs, DiJavascript1} from "react-icons/di";
-import {SiCplusplus, SiExpress, SiFirebase, SiGooglecloud, SiHtml5, SiMongodb, SiNextdotjs, SiPostman, SiRedux, SiSelenium, SiTailwindcss, SiVercel, SiVisualstudiocode} from "react-icons/si";
+import {SiCplusplus, SiExpress, SiFirebase, SiGooglecloud, SiHtml5, SiMongodb, SiNextdotjs, SiPostman, SiRedux, SiSelenium, SiTailwindcss, SiTypescript, SiVercel, SiVisualstudiocode} from "react-icons/si";
 
 const Skills = ({skill}) => {
     const icon = {
@@ -13,6 +13,7 @@ const Skills = ({skill}) => {
         Javascript: <DiJavascript1/>,
         Python:<FaPython/>,
         Node : <DiNodejs/>,
+        Typescript:<SiTypescript/>,
         Express : <SiExpress/>,
         MongoDb : <SiMongodb/>,
         Git : <FaGitAlt/>,

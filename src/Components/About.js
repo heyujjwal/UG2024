@@ -55,6 +55,7 @@ As a <b>Frontend Intern</b> at Ineubytes Technology, I enhanced user engagement 
         <Skills skill='MongoDb' />
         <Skills skill='Git' />
         <Skills skill='Github' />
+        <Skills skill='Typescript'/>
         <Skills skill='Javascript' />
         <Skills skill='Python'/>
         <Skills skill='TailwindCSS'/>
