@@ -17,9 +17,9 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
     TextEditorGithub:"https://github.com/heyujjwal/text-editor-punt",
     TextEditorWebsite:"https://text-editor-punt.vercel.app/",
     
-    WigglesDesc:"An innovative pet management web app enabling pet parents to create unique pet IDs, securely store and share vaccination records, and generate QR codes for pet profiles, enhancing safety.",
-    WigglesGithub:"",
-    WigglesWebsite:"",
+    DigiStoreDesc:"DigiStore is an e-commerce platform where users can browse, create, and purchase products. The project integrates dynamic frontend elements. It includes user authentication, product management, and a smooth user interface.",
+    DigiStoreGithub:"https://github.com/heyujjwal/DigiStore",
+    DigiStoreWebsite:"https://digi-store-1.vercel.app/",
   }
 
   let show ='';
